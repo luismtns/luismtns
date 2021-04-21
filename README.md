@@ -8,4 +8,5 @@
 - 👯 Busco colaboração em trabalhos artístico principalmente (mas chama nos job rs)
 - 💬  Dúvidas de UI/UX design e CSS é comigo! (dúvidas de dev vou fazer como você e pesquisar no stackoverflow rs)
 
-[Portifólio](https://luismtns.github.io/)
+[Portifólio no Behance](https://www.behance.net/luismtns)
+[Site pessoal](https://luismtns.github.io/)
