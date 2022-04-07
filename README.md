@@ -10,6 +10,6 @@
 
 [Portifólio no Behance](https://www.behance.net/luismtns)
 
-[Site pessoal](https://luismtns.github.io/)
+[Site pessoal](https://luisbovo.com.br/)
 
 Abaixo você pode pode conferir meus códigos mais valiosos 🤓 👇
