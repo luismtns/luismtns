@@ -1,6 +1,4 @@
-### Olá! Sou um designer e desenvolvedor web, muito prazer! 👋
-
-##### Aprender a programar e a utilizar o photoshop foram coisas que surgiram ao mesmo tempo na minha vida e sempre aprendi em conjunto ambas as coisas, desenvolvimento e design, adoro explorar ambas as áreas em conjunto principalmente em projetos pessoais.
+“A simplicidade é o último grau da sofisticação” – Leonardo da Vinci
 
 ##### Sobre
 - 🔭 Trabalho atualmente em um agência e como freelancer
