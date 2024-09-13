@@ -2,9 +2,9 @@
 
 # About me
 
-🔭  Currently working as a developer at CNA, focusing on delivering high-quality digital solutions.
+🔭  Currently working as a developer at **CNA**, focusing on delivering high-quality digital solutions.
 
-🌱  Deepening my expertise in TypeScript, React, Node.js, and backend development.
+🌱  Deepening my expertise in **_TypeScript_**, **_React_**, **_Node.js_**, and backend development.
 
 👯  Open to creative collaborations, especially where design meets code. Hit me up for side projects or freelance work!
 
