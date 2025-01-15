@@ -1,5 +1,3 @@
-### “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
-
 # About me
 
 🔭  Currently working as a developer at **CNA**, focusing on delivering high-quality digital solutions.
