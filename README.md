@@ -12,5 +12,10 @@
 
 [Visit my Personal Website](https://luisbovo.com.br/)
 
+## My Roadmap
 
-Below are some of my most superlative projects and code snippets 🤓 👇
+[![roadmap.sh](https://roadmap.sh/card/tall/67f7b5e346da096541d69369?variant=dark)](https://roadmap.sh)
+
+---
+
+### Below are some of my most superlative codes snippets 🤓 👇
